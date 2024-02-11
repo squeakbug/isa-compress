@@ -1,0 +1,3 @@
+[submodule "src/ELFIO"]
+	path = src/ELFIO
+	url = https://github.com/serge1/ELFIO
